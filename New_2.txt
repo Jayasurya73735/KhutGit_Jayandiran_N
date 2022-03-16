@@ -1,0 +1,1 @@
+It is the second file created on the local repo and it is to be uploaded to the GIT repo too.
